@@ -1,0 +1,24 @@
+button {
+  width: 130px;
+  height:40px;
+  border: none;
+ background-color: rgb(39, 30, 30);
+ text-align: center;
+ border-radius: 20px;
+ margin-top: 30%;
+ color: aquamarine;
+}
+
+
+p {
+  color: rgb(62, 81, 81);
+  font-size: 100px;
+  margin-top: 350px;
+}
+
+
+.div {
+display: flex;
+justify-content: space-around;
+}
+
